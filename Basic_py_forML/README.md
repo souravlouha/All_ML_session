@@ -26,5 +26,5 @@ Framework:
 The framework is similar to buying a new home. Although you can't determine how the rooms are organised, the home is already completed, so you don't need to worry about construction issues. A framework is a collection of standards and libraries for developing a specific kind of application. Frameworks provide a starting point for the development of applications and enforce particular design patterns and architectural principles. In particular, concerning libraries, frameworks specify how the program should be organised, and the developer is obligated to adhere to those restrictions.
 </p>
 
-
+<img src="https://github.com/souravlouha/All_ML_session/blob/main/Basic_py_forML/All_images/1675749169753.jpg" width="400"/>
 
