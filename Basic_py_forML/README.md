@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 <h1>Module, Package, Library & Framework — A Real-Life Example</h1>
 
 <img src="https://raw.githubusercontent.com/souravlouha/All_ML_session/refs/heads/main/Basic_py_forML/All_images/1675748802083.jpg" width="400"/>
@@ -29,4 +28,3 @@ The framework is similar to buying a new home. Although you can't determine how 
 
 
 
->>>>>>> 31b8eaf9c129bca0370cbc68d5118f59755b1f6d
