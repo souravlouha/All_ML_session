@@ -1,1 +1,0 @@
-Basic_py_forML\All_images\1675748802083.jpg
