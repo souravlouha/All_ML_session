@@ -36,5 +36,6 @@ The framework is similar to buying a new home. Although you can't determine how 
 In summary, a module is a piece of code that may be built upon, a package is a collection of modules, a library is a collection of pre-written code, and a framework is a set of principles for developing applications. It's important to remember that, depending on the context and programming language being used, the definitions of this terminology may overlap or change. </p>
 
 -----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 <h1>REPL in python </h1>
 <p>REPL is an acronym for Read, Evaluate, Print, and Loop. Developers use REPL Python to communicate with the Python Interpreter. In contrast to running a Python file, you can input commands in the REPL and see the results displayed immediately.</p>
