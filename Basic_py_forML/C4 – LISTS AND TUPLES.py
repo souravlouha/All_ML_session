@@ -40,7 +40,7 @@ print(type(a))
 
 #PRACTICE
 
-#Write a program to store three fruits in a list entered by the user.
+###Write a program to store three fruits in a list entered by the user.
 fruits=[]
 f1 = input("enter fruit name: ")
 fruits.append(f1)
@@ -52,7 +52,7 @@ fruits.append(f3)
 print(fruits)
 
 
-#Write a program to accept marks of 6 students and display them in a sorted manner
+###Write a program to accept marks of 6 students and display them in a sorted manner
 
 Marks=[]
 f1 = int(input("enter Marks: "))
@@ -63,4 +63,34 @@ f3 = int(input("enter Marks: "))
 Marks.append(f3)
 Marks.sort()
 print(Marks)
+
+
+###Check that a tuple type cannot be changed in python?
+
+#Tuples are immutable, meaning once created, their elements cannot be modified.
+# Create a tuple
+my_tuple = (1, 2, 3)
+
+# Try to change an element
+my_tuple[0] = 10
+#TypeError: 'tuple' object does not support item assignment
+#The line my_tuple[0] = 10 tries to change the first element of the tuple, which is not allowed.
+#This simple example proves that tuples cannot be changed in Python. If you need to modify data, use a list instead. For example:
+my_list = [1, 2, 3]
+my_list[0] = 10  # This works fine
+print(my_list)   # Output: [10, 2, 3]
+
+
+
+###Write a program to sum a list with 4 numbers.
+a= [1, 2, 3]
+print(sum(a))  # Output: 6
+
+
+
+###Write a program to count the number of zeros in the following tuple: p = (7, 0, 8, 0, 0, 9)
+
+p=[7,0 ,8 ,0 ,0 ,9]
+n = p.count(0) # Number
+print(n) # Output:
 
