@@ -1,3 +1,4 @@
+#STRING
 name = "sourav"
 
 print(len(name)) # string ar lenth bolbe , mane kotogulo character ache
@@ -31,3 +32,4 @@ print(letter.replace("<|Name|>","Sourav").replace("<|Date|","18 jan 2025"))
 #Write a program to detect double space in a string.
 name = "Soumita is a good  girl and  "
 print(name.find("  "))
+
