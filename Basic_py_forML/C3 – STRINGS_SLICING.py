@@ -33,3 +33,4 @@ print(letter.replace("<|Name|>","Sourav").replace("<|Date|","18 jan 2025"))
 name = "Soumita is a good  girl and  "
 print(name.find("  "))
 
+#STRING SLICING
