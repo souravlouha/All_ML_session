@@ -43,7 +43,28 @@ print(marks.get("sourav")) #returns value of given key
 (marks.get("sourav2")) #print None
 (marks["sourav2"]) #Return an Error 
 '''
+d = {} # empty dictionary
 
 
 
+#SETS
 
+
+
+s = {1,2,3} 
+
+e = set()#empty set
+#Dont use s ={} as it will creat an empty dictionary
+
+p = {1,4,4,8,6,3,7,5,7} # set a elements repeat hoy na 
+print(p) #{1, 3, 4, 5, 6, 7, 8}
+
+
+# SET METHODS
+
+q = {1, 3, 4, 5, 6, 7, 8, "sourav"} 
+print(q,type(q))#<class 'set'>
+
+
+q.add(9)#add element to set
+print(q ,type(q)) 
