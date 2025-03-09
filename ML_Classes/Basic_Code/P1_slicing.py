@@ -8,4 +8,5 @@ print(X[3:-7:-1])#->cle
 print(X[1:6:2])#->ecm
 
 
+#646446
 #STRING SLICING
