@@ -2,7 +2,7 @@
 
 <h1>Module, Package, Library & Framework — A Real-Life Example</h1>
 
-<img src="https://raw.githubusercontent.com/souravlouha/All_ML_session/refs/heads/main/Basic_py_forML/All_images/1675748802083.jpg" width="400"/>
+<img src="https://github.com/souravlouha/All_ML_session/blob/main/Basic_Python_forML/All_images/1675748802083.jpg" width="400"/>
 
 <p>In the sector of software development, terminology like "module," "package," "library," and "framework" is frequently used to describe various schemes for classifying and reusing code. However, the precise meanings of these phrases might change depending on the context and programming language used. Here is the definition with a real-life example:</p>
 <p>Module = Your fingers</p>
